@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z4ax5b8si-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/z4ax5b8si-java-quarkus-gitops
